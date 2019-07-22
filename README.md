@@ -10,6 +10,6 @@ I want to also add functionalities such as
   * create groups for pot luck and gatherings
   * meal planner
   
-Improvments are welcome and greatly appreciated.
+Improvements are welcome and greatly appreciated.
 
 Thank you in advance!!
